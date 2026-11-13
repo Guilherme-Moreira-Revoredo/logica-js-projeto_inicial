@@ -32,3 +32,4 @@ window.alert(
     `Isso ai! você descobriu o número secreto: ${numero_secreto}, com ${tentativas} tentativa!!!`,
   )
 } */
+// pull
